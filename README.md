@@ -1,11 +1,14 @@
-# **Prompts de Sistema, Ferramentas e Modelos de IA de FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode, Spawn & Orchids.app (e outros de Código Aberto)**
+# **Coleção de Prompts de Sistema, Ferramentas e Modelos de IA**
+
+Bem-vindo a uma coleção com mais de **8500+ linhas** de **prompts de sistema**, **configurações de modelos** e **definições de ferramentas** de diversas IAs e agentes de desenvolvimento. Este repositório é um mergulho profundo na engenharia de prompt e na arquitetura por trás de ferramentas de ponta como **v0, Cursor, Devin, Replit Agent, Perplexity**, e muitas outras.
+
+Se você é um desenvolvedor, pesquisador ou entusiasta de IA, aqui você encontrará insights valiosos sobre a estrutura e funcionalidade de sistemas de IA, tanto de código fechado quanto de código aberto.
+
+**Palavras-chave:** Engenharia de Prompt, Prompts de Sistema, Instruções de Sistema, IA Generativa, Modelos de Linguagem, LLM, Agentes de IA, Ferramentas de IA, Prompts em Português, Código-fonte de Prompts, Inteligência Artificial.
 
 ---
 
-<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-📜 Mais de **8500+ linhas** de insights sobre sua estrutura e funcionalidade.
-
+Este repositório contém os prompts de: **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode, Spawn & Orchids.app**, além de vários outros de **Código Aberto**.
 
 ---
 
