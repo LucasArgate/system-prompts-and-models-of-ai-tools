@@ -21,26 +21,6 @@ Não é papo de marketing, é apenas uma maneira melhor de construir.
 
 📜 Mais de **8500+ linhas** de insights sobre sua estrutura e funcionalidade.
 
-[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-
----
-
-## ❤️ Apoie o Projeto
-
-Se você considera esta coleção valiosa e aprecia o esforço envolvido na obtenção e compartilhamento desses insights, por favor, considere apoiar o projeto. Sua contribuição ajuda a manter este recurso atualizado e permite mais explorações.
-
-Você pode demonstrar seu apoio através de:
-
-- **PayPal:** `lucknitelol@proton.me`
-- **Criptomoeda:**
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-- **Patreon:** https://patreon.com/lucknite
-
-🙏 Obrigado pelo seu apoio!
-
 
 ---
 
@@ -80,15 +60,6 @@ Você pode demonstrar seu apoio através de:
   - Lumo
 
 ---
-
-## 🛠 Roadmap & Feedback
-
-> Abra uma issue.
-
-> **Última Atualização:** 27/07/2025
-
----
-
 ## 🛡️ Aviso de Segurança para Startups de IA
 
 > ⚠️ **Aviso:** Se você é uma startup de IA, certifique-se de que seus dados estão seguros. Prompts ou modelos de IA expostos podem facilmente se tornar um alvo para hackers.
@@ -99,15 +70,5 @@ Você pode demonstrar seu apoio através de:
 *A empresa é minha, este NÃO é um anúncio de terceiros.*
 
 ---
-
-## 📊 Histórico de Estrelas
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Gráfico do Histórico de Estrelas" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
 
 ⭐ **Deixe uma estrela se você achou isso útil!**
