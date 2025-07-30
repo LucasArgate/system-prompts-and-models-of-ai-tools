@@ -2,21 +2,6 @@
 
 ---
 
-# Cansado de criar jogos ruins com ferramentas de IA genéricas?
-<a href="https://spawn.co" target="_blank" rel="noopener noreferrer">
-  <img width="200" height="200" alt="Logo Spawn.co" src="https://github.com/user-attachments/assets/669cef9b-eec1-4add-9a02-fb7e12602126" align="right" />
-</a>
-
-Pare de **prototipar**. Comece a **lançar**.
-
-Enquanto outras ferramentas ficam presas em prompts, [spawn.co](https://www.spawn.co/) usa IA de ponta para construir e implantar jogos completos. Eu gerei 4 variantes de jogos completos em menos de 20 minutos. Não protótipos - jogos realmente jogáveis com sistemas de salvamento, multiplayer e monetização prontos para serem lançados.
-
-Não é papo de marketing, é apenas uma maneira melhor de construir.
-
-**Construa. Lance. Pronto.**
-
----
-
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 📜 Mais de **8500+ linhas** de insights sobre sua estrutura e funcionalidade.
